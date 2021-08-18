@@ -1,7 +1,7 @@
 
 <h1 align="center">
 <br>
-  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/icon-app.png" alt="YOUR_PROJECT_NAME" width="100">
+  <img src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Stopwatch-icon.png" alt="YOUR_PROJECT_NAME" width="100">
 <br>
 <br>
 Stopwatch

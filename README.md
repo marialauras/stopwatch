@@ -1,5 +1,5 @@
 
-h1 align="center">
+<h1 align="center">
 <br>
   <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/icon-app.png" alt="YOUR_PROJECT_NAME" width="100">
 <br>

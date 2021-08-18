@@ -13,7 +13,7 @@ Stopwatch
 
 [//]: # (Add your gifs/images here:)
 <div align="center">
-  <img src="https://github.com/marialauras/creative-flashcards/blob/master/assets/my-app.gif" alt="demo" height="525">
+  <img src="" alt="demo" height="525">
 </div>
 
 
